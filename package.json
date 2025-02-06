@@ -1,0 +1,28 @@
+{
+    "name": "e-gram-panchayat",
+    "version": "1.0.0",
+    "description": "A digital platform for Gram Panchayat services to handle citizen applications online",
+    "main": "index.js",
+    "scripts": {
+      "start": "live-server --port=8080",
+      "build": "echo 'No build steps required for this project.'",
+      "test": "echo 'No test specified'"
+    },
+    "keywords": [
+      "panchayat",
+      "digital services",
+      "firebase",
+      "web app",
+      "citizen services"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "firebase": "^9.0.0",
+      "live-server": "^1.2.1"
+    },
+    "devDependencies": {
+      "eslint": "^7.32.0"
+    }
+  }
+  
